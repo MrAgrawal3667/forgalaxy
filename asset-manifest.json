@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/forgalaxy/static/css/main.88995a61.css",
-    "main.js": "/forgalaxy/static/js/main.be30382a.js",
-    "static/js/453.438d9e50.chunk.js": "/forgalaxy/static/js/453.438d9e50.chunk.js",
-    "index.html": "/forgalaxy/index.html",
-    "main.88995a61.css.map": "/forgalaxy/static/css/main.88995a61.css.map",
-    "main.be30382a.js.map": "/forgalaxy/static/js/main.be30382a.js.map",
-    "453.438d9e50.chunk.js.map": "/forgalaxy/static/js/453.438d9e50.chunk.js.map"
+    "main.css": "/static/css/main.88995a61.css",
+    "main.js": "/static/js/main.d4a3f7ce.js",
+    "static/js/453.438d9e50.chunk.js": "/static/js/453.438d9e50.chunk.js",
+    "index.html": "/index.html",
+    "main.88995a61.css.map": "/static/css/main.88995a61.css.map",
+    "main.d4a3f7ce.js.map": "/static/js/main.d4a3f7ce.js.map",
+    "453.438d9e50.chunk.js.map": "/static/js/453.438d9e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88995a61.css",
-    "static/js/main.be30382a.js"
+    "static/js/main.d4a3f7ce.js"
   ]
 }
