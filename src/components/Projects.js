@@ -3,8 +3,8 @@ import React from 'react';
 const Projects = () => {
   return (
     <div>
-      <h1>My Projects</h1>
-      <p>This is the projects page.</p>
+      <h1>Project Details</h1>
+      <p>Here you can find more details about the project.</p>
     </div>
   );
 };
